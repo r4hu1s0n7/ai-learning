@@ -1,0 +1,17 @@
+# LangChain + RAG essentials
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+
+# Document loading
+pypdf
+docx2txt
+
+# Embeddings and vector database
+sentence-transformers
+
+# Utilities
+python-dotenv
+tiktoken
+ipykernel
